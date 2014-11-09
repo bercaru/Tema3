@@ -75,4 +75,4 @@ local.properties
 
 # TeXlipse plugin
 .texlipse
-
+*.ucls
